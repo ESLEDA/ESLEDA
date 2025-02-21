@@ -5,7 +5,8 @@
  
 
 ### Mobile technologies I use:
-  [![My Skills](https://skillicons.dev/icons?i=dart, flutter, figma)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=dart,flutter,figma)](https://skillicons.dev)
 
 ### Backend technologies I use:
   [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
