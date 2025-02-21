@@ -1,7 +1,15 @@
-<h1>Hola👋 soy ESLEDA</h1>
-## Sobre mi
- Desarrolldor backend developer
+<h1>Hi 👋, I am ESLEDA</h1>
+<p>About me</p>
 
-### I have used these technologies and tools:
+<h3>Mobile 📱and Backend 💻 Developer </h3>
+ 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,git,github,spring,docker,react,figma,flutter,python,nodejs,cpp,dart,docker,express,linux,mysql,postgres,postman,java)](https://skillicons.dev)
+### Mobile technologies I use:
+  [![My Skills](https://skillicons.dev/icons?i=dart, flutter, figma)](https://skillicons.dev)
+
+### Backend technologies I use:
+  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=js,tsnodejs)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
