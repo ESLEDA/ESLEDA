@@ -11,6 +11,6 @@
 ### Backend technologies I use:
   [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=js,tsnodejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
 
   [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
